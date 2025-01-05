@@ -48,7 +48,7 @@
 * Now Open **cmd** in windows, **bash Terminal** in mac. Now Hit the Below Command's
 
 ```bash
-git clone 
+git clone https://github.com/Manju1392k/Android-Vs-Apple-voting-Website.git
 ```
 
 * The project cloned after this process
