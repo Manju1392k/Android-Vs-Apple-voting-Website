@@ -2,11 +2,11 @@
 ### A simple and fun project for voting android and apple.
 
 ---
-# 👁️ Preview of Image Popup Effect
+# 👁️ Preview of Android Vs Apple Voting website.
 
 <div align='center'>
   
-
+![Android Vs Apple Website](https://github.com/user-attachments/assets/4aba9e62-fce3-4f2b-9cbd-9e91e9baf4e0)
 
 </div>
 
